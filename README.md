@@ -1,2 +1,2 @@
 # document-App
-document / notes app using Swiftdata 
+ios document / notes app using swift and Swiftdata 
